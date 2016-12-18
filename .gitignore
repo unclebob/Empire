@@ -1,2 +1,6 @@
 *.iml
+*.idea
+empire/out
+empire/out/*
+
 
